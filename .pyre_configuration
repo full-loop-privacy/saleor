@@ -1,0 +1,11 @@
+{
+  "source_directories": [
+    "./saleor/"
+  ],
+  "taint_models_path": [
+    "./pyre/"
+  ],
+  "search_path": [
+    "./pyre/stubs/"
+  ]
+}
